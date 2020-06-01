@@ -1,0 +1,34 @@
+//META{"name":"Grogy-2K19","description":"První verze Grogy Theme a to 2K19 - YouTube.com/c/grogy - Twitch.tv/grogyas - Discord.gg/REhZxyX","author":"!Grogγ☺","version":"erze 2K19"}*//
+@import url(https://cdn.discordthemes.net/file/notanotheranimetheme/dcsl.css);
+
+:root {
+    --background-image: url(https://i.imgur.com/SfO08aH.png);
+
+    --friends-icon: url(https://i.imgur.com/uNUs9Wb.png);
+
+    --friends-icon-position: center center;
+
+    --friends-icon-zoom: 100%;
+
+    --main-color: rgb(67, 181, 129);
+
+    --main-transparency: rgba(0, 0, 0, 0.8);
+
+    --unread-server-animation: rainbow;
+
+    --hover-list-bg-color: rgba(255, 255, 255, .15);
+
+    --border-lines-color: hsla(0,0%,100%,.1);
+
+    --scroll-bar-color: rgba(255,255,255, .15);
+
+    --font-size: 16px;
+
+    --selected-text-voice-color: #f6f6f7;
+
+    --channel-hover-text-color: rgba(255, 255, 255, 0.75);
+
+    --unread-text-color: #dcddde;
+
+    --user-popup-background: rgba(0, 0, 0, 0.8);
+}

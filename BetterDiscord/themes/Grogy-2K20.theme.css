@@ -1,0 +1,33 @@
+//META{"name":"Grogy-2K20","description":"Nová verze Grogy Theme a to 2K20 - YouTube.com/c/grogy - Twitch.tv/grogyas - Discord.gg/REhZxyX","author":"!Grogγ☺","version":"erze 2K20"}*//
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Comic+Sans+MS');
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+:root {
+--themeColor1: #652772;
+--themeColor2: #ad1a1a;
+--customFont: 'Comic Sans MS', sans-serif;
+--homeImage: url('https://i.imgur.com/XZbc02A.png');
+--backgroundColor: #0d0d0d;
+--backgroundImage: url('https://i.imgur.com/qCu9zKw.jpg');
+--backgroundBlur: 76px;
+--backgroundOpacity: 0.65;
+
+--rs-small-spacing: 0px;
+--rs-large-spacing: 0px;
+--rs-width: 1px;
+--rs-avatar-shape: 20%;
+--rs-online-color: #2ac07d;
+--rs-idle-color: #be7f13;
+--rs-dnd-color: #8d0707;
+--rs-streaming-color: #3a2361;
+--rs-offline-color: #000000;
+--rs-invisible-color: #787c82;
+
+--columns: 2;
+--guildsize: 40;
+--guildgap: 2;
+--aligndms: 0;
+}

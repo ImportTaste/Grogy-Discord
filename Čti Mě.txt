@@ -1,0 +1,2 @@
+1. musíte nainstalovat BandagedBD_Windows
+2. Jít do C:\Users\Vaš Jméno\AppData\Roaming nebo dát Win+R a napsat tam %appdata% a přesunout věci ze staženého BetterDiscord do vaší složky BetterDiscord
