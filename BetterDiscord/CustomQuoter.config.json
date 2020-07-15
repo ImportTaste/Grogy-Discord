@@ -1,0 +1,10 @@
+{
+	"changelog": {
+		"currentversion": "1.1.1"
+	},
+	"settings": {
+		"forceZeros": false,
+		"ignoreMentionInDM": true,
+		"quoteOnlySelected": true
+	}
+}

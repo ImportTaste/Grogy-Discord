@@ -1,0 +1,19 @@
+{
+    "currentVersionInfo": {
+        "version": "2.1.3",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "saveOptions": {
+            "fileNameType": 4,
+            "customFileName": "${file}_${date}_${time}",
+            "randLength": 7,
+            "conflictingFilesHandle": 2,
+            "saveByName": true,
+            "appendCurrentName": true
+        },
+        "misc": {
+            "contextMenuOnBottom": true
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+	"changelog": {
+		"currentversion": "1.9.5"
+	},
+	"choices": {
+		"defaultFilter": "channel",
+		"defaultSort": "notetime"
+	},
+	"notes": {
+		"@me": {
+			"540603788558336001": {
+				"710757436939829309": {
+					"addedat": 1591602251699,
+					"channel": "{\"id\":\"540603788558336001\",\"type\":1,\"name\":\"\",\"topic\":\"\",\"position\":0,\"guild_id\":null,\"recipients\":[\"510484304078307354\"],\"rawRecipients\":[{\"avatar\":\"7edb6d80d59ae9a468994f7e6d422cd9\",\"discriminator\":\"6632\",\"id\":\"510484304078307354\",\"public_flags\":0,\"username\":\"𝖜𝖆𝖑𝖙𝖊𝖗 𝖈𝖑𝖊𝖒𝖊𝖓𝖙𝖘\"}],\"permissionOverwrites\":{},\"bitrate\":64000,\"userLimit\":0,\"ownerId\":null,\"icon\":null,\"application_id\":null,\"nicks\":{},\"nsfw\":false,\"parent_id\":null,\"memberListId\":null,\"rateLimitPerUser\":0,\"originChannelId\":null,\"lastMessageId\":\"719453791543623701\",\"lastPinTimestamp\":\"2020-05-19T07:29:41.180000+00:00\"}",
+					"id": "710757436939829309",
+					"message": "{\"id\":\"710757436939829309\",\"type\":0,\"channel_id\":\"540603788558336001\",\"author\":{\"id\":\"459409611049664512\",\"username\":\"!Grogγ☺\",\"usernameNormalized\":\"!grogγ☺\",\"discriminator\":\"9999\",\"avatar\":\"a_3f2a96580b90bdcc913a3eb19e85f25a\",\"email\":\"grogysam@seznam.cz\",\"verified\":true,\"bot\":false,\"system\":false,\"mfaEnabled\":false,\"mobile\":true,\"desktop\":true,\"premiumType\":2,\"flags\":160,\"publicFlags\":128,\"premiumDiscriminator\":\"137438953472\",\"phone\":\"+420737064254\"},\"colorString\":null,\"nick\":null,\"content\":\"6ZeZ2j\",\"attachments\":[],\"embeds\":[],\"mentions\":[],\"mentionRoles\":[],\"mentionChannels\":[],\"mentioned\":false,\"pinned\":true,\"mentionEveryone\":false,\"tts\":false,\"codedLinks\":[],\"giftCodes\":[],\"timestamp\":\"2020-05-15T07:36:18.201Z\",\"editedTimestamp\":null,\"state\":\"SENT\",\"nonce\":null,\"blocked\":false,\"call\":null,\"bot\":false,\"webhookId\":null,\"reactions\":[],\"application\":null,\"activity\":null,\"messageReference\":null,\"flags\":0,\"isSearchHit\":false}",
+					"timestamp": 1589528178201
+				}
+			},
+			"540249644744048660": {
+				"718047051102814218": {
+					"addedat": 1591869363606,
+					"channel": "{\"id\":\"540249644744048660\",\"type\":1,\"name\":\"\",\"topic\":\"\",\"position\":0,\"guild_id\":null,\"recipients\":[\"356011012031381504\"],\"rawRecipients\":[{\"avatar\":\"83b3673cfb0e5ce8cccd0d802130b580\",\"discriminator\":\"0390\",\"id\":\"356011012031381504\",\"public_flags\":0,\"username\":\"PATTY\"}],\"permissionOverwrites\":{},\"bitrate\":64000,\"userLimit\":0,\"ownerId\":null,\"icon\":null,\"application_id\":null,\"nicks\":{},\"nsfw\":false,\"parent_id\":null,\"memberListId\":null,\"rateLimitPerUser\":0,\"originChannelId\":null,\"lastMessageId\":\"718369307209367553\",\"lastPinTimestamp\":null}",
+					"id": "718047051102814218",
+					"message": "{\"id\":\"718047051102814218\",\"type\":0,\"channel_id\":\"540249644744048660\",\"author\":{\"id\":\"356011012031381504\",\"username\":\"PATTY\",\"usernameNormalized\":\"patty\",\"discriminator\":\"0390\",\"avatar\":\"83b3673cfb0e5ce8cccd0d802130b580\",\"email\":null,\"verified\":false,\"bot\":false,\"system\":false,\"mfaEnabled\":false,\"mobile\":false,\"desktop\":false,\"flags\":0,\"publicFlags\":0,\"premiumDiscriminator\":false,\"phone\":null},\"colorString\":null,\"nick\":null,\"content\":\"https://meet.google.com/qhj-onvs-vzc?authuser=0\",\"attachments\":[],\"embeds\":[{\"id\":\"embed_281\",\"url\":\"https://meet.google.com/qhj-onvs-vzc?authuser=0\",\"type\":\"link\",\"rawTitle\":\"Meet\",\"rawDescription\":\"Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.\",\"thumbnail\":{\"url\":\"https://www.gstatic.com/images/branding/product/2x/meet_96dp.png\",\"proxyURL\":\"https://images-ext-2.discordapp.net/external/esmkNqRvv_uM84r7jKXLg4PJYn6vHhrSoJ2Qs7oO2Z8/https/www.gstatic.com/images/branding/product/2x/meet_96dp.png\",\"width\":192,\"height\":192}}],\"mentions\":[],\"mentionRoles\":[],\"mentionChannels\":[],\"mentioned\":false,\"pinned\":false,\"mentionEveryone\":false,\"tts\":false,\"codedLinks\":[],\"giftCodes\":[],\"timestamp\":\"2020-06-04T10:22:37.652Z\",\"editedTimestamp\":null,\"state\":\"SENT\",\"nonce\":null,\"blocked\":false,\"call\":null,\"bot\":false,\"webhookId\":null,\"reactions\":[],\"application\":null,\"activity\":null,\"messageReference\":null,\"flags\":0,\"isSearchHit\":false}",
+					"timestamp": 1591266157652
+				}
+			}
+		}
+	}
+}
